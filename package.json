@@ -1,7 +1,7 @@
 {
-  "name": "resumable-chunked-upload",
+  "name": "chunkflow",
   "version": "1.0.0",
-  "description": "Reference implementation for uploading large files from the browser past proxy body limits — chunked, streamed to disk, magic-byte validated.",
+  "description": "Reference implementation for uploading large files from the browser past proxy body limits: chunked, streamed to disk, magic-byte validated.",
   "type": "module",
   "license": "MIT",
   "author": "Guillermo López",

@@ -1,4 +1,6 @@
-# Resumable chunked upload (large files past proxy body limits)
+# chunkflow
+
+**Upload large files from the browser past proxy body limits.**
 
 A small, framework-light reference implementation for uploading **large files
 (hundreds of MB to GBs) from the browser to your own server** when a managed
